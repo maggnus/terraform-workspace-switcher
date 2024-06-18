@@ -1,5 +1,6 @@
 *.idea
 *.iml
+*.tf
 .terraform.lock.hcl
 .terraform
 tfs
